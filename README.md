@@ -27,6 +27,3 @@ Consumir API
 - [X] usar axios
 - [X] semelhanças entre axios e fetch
 - [X] usar try/catch
-# api-express-nodejs
-# api-express-nodejs
-# api-express-nodejs
