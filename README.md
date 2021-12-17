@@ -1,7 +1,9 @@
-# Consumir API
+# API - AXIOS + EXPRESS + NODEJS
+
+## Sobre o projeto
+Desenvolvendo e consumindo uma API no Front-end e Back-end com Express e NodeJS. Projeto Rocketseat CodeDrops
 
 ## API
-
 Criar uma api
 - [X] Iniciar o projeto `npm init -y`
 - [X] Instalar as dependências `npm i express nodemon cors axios`
@@ -25,4 +27,5 @@ Consumir API
 - [X] usar axios
 - [X] semelhanças entre axios e fetch
 - [X] usar try/catch
+# api-express-nodejs
 # api-express-nodejs
